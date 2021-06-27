@@ -1,7 +1,7 @@
 const entries = [
     {
     "name": "Money",
-    "key": "months",
+    "key": ['JAN','FEB','MAR','APR','MAY','JUN','JULY','AUG','SEPT','OCT','NOV','DEC'],
     "value": [81,239,112,200,170,120,199,221,92,170,130,100]
     },
     {
